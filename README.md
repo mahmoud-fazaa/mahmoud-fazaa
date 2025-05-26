@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-QA Integration Engineer passionate about ensuring software quality through manual and automated testing. Skilled in identifying issues early, building reliable test cases, and working closely with developers to deliver smooth user experiences.
+Senior QA Engineer passionate about ensuring software quality through manual and automated testing. Skilled in identifying issues early, building reliable test cases, and working closely with developers to deliver smooth user experiences.
 
 ---
 
